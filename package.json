@@ -1,5 +1,5 @@
 {
-  "name": "ranran-model-parser",
+  "name": "ran2-model-parser",
   "version": "1.0.0",
   "description": "Model parser and verifier",
   "main": "lib/index.js",
