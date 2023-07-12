@@ -1,6 +1,6 @@
 {
   "name": "ran2-model-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Model parser and verifier",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
